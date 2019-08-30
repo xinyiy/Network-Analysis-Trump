@@ -1,4 +1,4 @@
-# Network Analysis Trump
+# Network Analysis-Trump's World
 Used &lt;Trump's World> dataset from Kaggle to perform basic network analysis and visualization using igraph and NetworkX.
 Link: https://www.kaggle.com/skylord/trumpworld#Person_Person.csv
 
