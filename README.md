@@ -36,5 +36,5 @@ Link: https://www.kaggle.com/skylord/trumpworld#Person_Person.csv
 ![NetworkX - from directed edges](https://github.com/xinyiy/Network-Analysis-Trump/blob/master/networkx%20-%20directed%20edges.png)
 
 ## Clusters spotted!
-![NetworkX - clusters](https://github.com/xinyiy/Network-Analysis-Trump/blob/master/networkx%20-%20weighted%20edge%20list.png)
+![NetworkX - clusters](https://github.com/xinyiy/Network-Analysis-Trump/blob/master/NetworkX_edgelist_clusters.png)
 
